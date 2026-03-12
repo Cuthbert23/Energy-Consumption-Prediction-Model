@@ -1,0 +1,32 @@
+{
+  "Random Forest": {
+    "MAE": 36.52,
+    "RMSE": 47.64,
+    "R2": 0.9988,
+    "MAPE": 2.74
+  },
+  "Gradient Boosting": {
+    "MAE": 30.39,
+    "RMSE": 38.4,
+    "R2": 0.9992,
+    "MAPE": 2.48
+  },
+  "Ridge Regression": {
+    "MAE": 102.06,
+    "RMSE": 129.52,
+    "R2": 0.9912,
+    "MAPE": 10.56
+  },
+  "Lasso Regression": {
+    "MAE": 102.56,
+    "RMSE": 129.9,
+    "R2": 0.9911,
+    "MAPE": 10.53
+  },
+  "ElasticNet": {
+    "MAE": 347.68,
+    "RMSE": 447.77,
+    "R2": 0.8942,
+    "MAPE": 25.27
+  }
+}
